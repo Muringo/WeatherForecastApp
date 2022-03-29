@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast App</string>
+    <string name="nairobi_kenya">Nairobi, Kenya</string>
+    <string name="date">Wed, 23 March, 2022</string>
+    <string name="time">4:05 PM</string>
+    <string name="temp">23</string>
+    <string name="title_time">Time</string>
+    <string name="temperature">20</string>
+    <string name="wind_speed">11</string>
+</resources>

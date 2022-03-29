@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeOverlay.CardView" parent="">
+        <item name="colorPrimary">@color/colorCardView</item>
+    </style>
+
+    <style name="ThemeOverlay.TemperatureCardView" parent="">
+        <item name="colorOnPrimary">@color/grey</item>
+    </style>
+</resources>
